@@ -1,0 +1,9 @@
+button{
+    position: absolute;
+    float: right;
+}
+
+body{
+    --tw-bg-opacity: 1;
+    background-color: rgb(240 249 255 / var(--tw-bg-opacity, 1)) /* #f0f9ff */;
+}
